@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "498256506338",
+    "project_id": "sarabosorekrate",
+    "storage_bucket": "sarabosorekrate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498256506338:android:2b7a8f6523edfc15e4ddbb",
+        "android_client_info": {
+          "package_name": "com.smartsoftware.sarabosorekrate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498256506338-1gtsml2ul35q6dgr5q4s93ng915p00gq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartsoftware.sarabosorekrate",
+            "certificate_hash": "73dcfdbca0fecd419fc6370834179568f6d485aa"
+          }
+        },
+        {
+          "client_id": "498256506338-i26fd0f5uqktvcq2ndgno7jrn968oe5o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzXwu09D1NFP046NIljP0GeCWOhD5Fsiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498256506338-i26fd0f5uqktvcq2ndgno7jrn968oe5o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
